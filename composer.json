@@ -1,10 +1,10 @@
 {
-    "name": "diglactic/laravel-breadcrumbs",
+    "name": "mediaholdings/laravel-breadcrumbs",
     "description": "A simple Laravel-style way to create breadcrumbs.",
     "keywords": [
         "laravel"
     ],
-    "homepage": "https://github.com/diglactic/laravel-breadcrumbs",
+    "homepage": "https://github.com/mediaholdings/laravel-breadcrumbs",
     "authors": [
         {
             "name": "Sheng Slogar",
